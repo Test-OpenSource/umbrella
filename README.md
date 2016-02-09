@@ -8,7 +8,7 @@ The XXXXX project is made of the following parts:
 
 - sub project 1:
 
-    This part is ... See [the project page](/Test-OpenSource/test)
+    This part is ... See [the project page](https://github.com/Test-OpenSource/test)
 
 - sub project 2:
 
