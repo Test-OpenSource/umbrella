@@ -6,11 +6,11 @@ This automatic page generator is the easiest way to create beautiful pages for a
 ### Architecture of XXXXX
 The XXXXX project is made of the following parts:
 
-- sub project 1:
+- sub project 1: 
 This part is ...
-- sub project 2:
+- sub project 2: 
 This part is ...
-- sub project 3:
+- sub project 3: 
 This part is ...
 
 We’ve crafted some handsome templates for you to use.
