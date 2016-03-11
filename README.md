@@ -1,7 +1,7 @@
 ## Welcome to project XXXX.
 
 ### About
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. 
+Umbrella (super-) project for multi platform project XXXX. This project contains mainly some generic documentation and links to the sub-projects....
 
 ### Architecture of XXXXX
 The XXXXX project is made of the following parts:
